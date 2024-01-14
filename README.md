@@ -1,5 +1,14 @@
 # Word Game
 
+#### Getting Started:
+
+```npm install```
+
+```npm run dev```
+
+Generate New Component
+```npm run new-component COMPONENT_NAME```
+
 ## Joy of React, Project I
 
 In this project, we'll recreate a popular online word game, Wordle:
